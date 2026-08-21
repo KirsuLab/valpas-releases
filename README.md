@@ -5,7 +5,6 @@ as long as you say. The source lives in a private repository; this one exists so
 downloads have a stable, public home — for the Homebrew cask and for anyone who prefers
 a direct download.
 
-- **App Store:** [Valpas on the Mac App Store](https://apps.apple.com/app/id6803307242)
 - **Homebrew:** `brew install --cask KirsuLab/tap/valpas`
 - **Direct:** the `.dmg` on the [latest release](../../releases/latest)
 
