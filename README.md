@@ -1,6 +1,6 @@
 # Valpas — downloads
 
-Notarized builds of **Valpas**, the menu bar app that keeps your Mac awake for exactly
+Notarized builds of **Valpas**, the menu bar app that keeps your machine awake for exactly
 as long as you say. The source lives in a private repository; this one exists so the
 downloads have a stable, public home — for the Homebrew cask and for anyone who prefers
 a direct download.
